@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "react-native-jobs",
+    "slug": "react-native-jobs",
+    "extra": {
+      "eas": {
+        "projectId": "f2572d31-df2f-48e4-936c-a8f5b8dc4b00"
+      }
+    },
+    "android": {
+      "package": "com.prabhakarpatel.reactnativejobs"
+    }
+  }
+}
